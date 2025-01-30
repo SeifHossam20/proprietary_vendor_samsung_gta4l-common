@@ -385,23 +385,11 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.sensorscalibrate@1.0-impl \
     vendor.samsung.hardware.gnss@2.0-impl-sec \
     vulkan.adreno \
-    libAlacSwDec \
-    libApeSwDec \
     libC2D2 \
     libCB \
-    libFlacSwDec \
     libGPTEE_vendor \
     libGPreqcancel \
     libGPreqcancel_svc \
-    libOmxAacDec \
-    libOmxAlacDec \
-    libOmxAmrDec \
-    libOmxAmrwbplusDec \
-    libOmxApeDec \
-    libOmxEvrcDec \
-    libOmxG711Dec \
-    libOmxQcelp13Dec \
-    libOmxWmaDec \
     libOpenCL \
     libOpenCv.camera.samsung \
     libQSEEComAPI \
@@ -594,11 +582,9 @@ PRODUCT_PACKAGES += \
     vendor.qti.memory.pasrmanager@1.1 \
     vendor.samsung.hardware.gnss@2.0 \
     audio.primary.bengal \
-    libOmxDsdDec \
     libadm \
     libaudio_log_utils \
     libcpion \
-    libdsd2pcm \
     libfastcrc \
     libhdcpsrm \
     liboemcrypto \
